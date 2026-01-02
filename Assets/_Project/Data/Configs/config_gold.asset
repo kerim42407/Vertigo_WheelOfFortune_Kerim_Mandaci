@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e700f03785da7334a95042abc4280231, type: 3}
+  m_Name: config_gold
+  m_EditorClassIdentifier: 
+  tier: 2
+  slices:
+  - rewardData: {fileID: 11400000, guid: f32aaad9b0c38384e8ca1eb7af806efe, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: e6d413c26cb9423479b6ad9af5dd3931, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: d01108fa0a00ab54a8947f16d82179a5, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: 6fb9409ea597bb44ea3f6b765190ddc2, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: d634b7d379ba87249b1e8d13015513ca, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: 0050f13d4a1d71144b17c0a0b44f6b22, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: 492664f4b488e0a4ab58de26390f80e9, type: 2}
+    amount: 0
+  - rewardData: {fileID: 11400000, guid: ecd5b522f542ed2448490c7656849ce4, type: 2}
+    amount: 0
